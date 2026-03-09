@@ -1,0 +1,9 @@
+{
+  "name": "kapab-quiz",
+  "description": "A local business",
+  "url": "https://kapab-quiz.onrender.com/mcp",
+  "transport": {
+    "type": "http",
+    "url": "https://kapab-quiz.onrender.com/mcp"
+  }
+}
