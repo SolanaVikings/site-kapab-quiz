@@ -1,0 +1,26 @@
+# Culture-Market Fit Quiz
+
+> Take the 10-question test to uncover what's blocking your growth.
+
+## About
+
+Most businesses assume their strategy is the problem when their culture is actually misaligned with their market. Culture-Market Fit is the gap nobody talks about. This free 2-minute quiz diagnoses exactly where your business is losing customers and why.
+
+## Services
+
+- Free 2-minute culture-market fit diagnostic quiz
+- Instant alignment score
+- Top 3 growth blockers identified
+- Personalised action plan
+- Benchmark comparison against businesses in your sector
+
+## Contact
+
+- Email: hello@kapab.co
+- Location: Available worldwide - Online assessment
+
+## Links
+
+- [Website](https://kapab-quiz.onrender.com)
+- [Full Content](https://kapab-quiz.onrender.com/llms-full.txt)
+- [Sitemap](https://kapab-quiz.onrender.com/sitemap.xml)
